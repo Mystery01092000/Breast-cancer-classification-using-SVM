@@ -2,7 +2,7 @@
 
 ![We fight](https://www.legacycommunityhealth.org/wp-content/uploads/2018/10/breast-cancer-pink-ribbon-1.png)
 
-## ==================Together We Fight Breast Cancer====================
+## ======Together We Fight Breast Cancer=====
 
 # Understanding:
 Breast cancer is cancer that forms in the cells of the breasts.
