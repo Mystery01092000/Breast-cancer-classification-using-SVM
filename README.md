@@ -62,7 +62,7 @@ If classification of observations is “linearly separable”, SVM fits the “d
 
 ## After, SVM we use SVM on Normalized data
 
-## Gridsearch Model :
+## Gridsearch Model -
   Improved our model by searching the best hyperparameter using GridSearch.
   
   
